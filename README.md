@@ -1,4 +1,8 @@
 # Guess My Number
+<div align="center">
+  <img src="guess.giff" />
+</div>
+
 This simple browser game is based on trying to guess a specific number. The goal of the game is to correctly guess a randomly selected number within a specified range.
 
 ## Live Project Link
